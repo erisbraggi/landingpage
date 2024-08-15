@@ -1,5 +1,5 @@
 # landingpage
-Projeto de Landing Page - Sistematização de Programação para Web<br><br>
+Projeto de Landing Page - Sistematização<br><br>
 
 Centro Universitário de Brasília – CEUB<br>
 Diretoria de Educação a Distância – DIREAD<br>
